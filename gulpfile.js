@@ -24,6 +24,7 @@ const locales = [
   'el',           // Greek
   'en',           // English (United States)
   'en-GB',        // English (Great Britain)
+  'en-AU',
   'es',           // Spanish
   'es-419',       // Spanish (Latin America & Caribbean)
   'et',           // Estonian
@@ -74,6 +75,8 @@ const currencies = [
   'EUR',          // Euro
   'GBP',          // British Pound
   'USD',          // US Dollar
+  'IDR',
+  'AUD',
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames'];
