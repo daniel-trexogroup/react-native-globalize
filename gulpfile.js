@@ -75,8 +75,9 @@ const currencies = [
   'EUR',          // Euro
   'GBP',          // British Pound
   'USD',          // US Dollar
-  'IDR',
-  'AUD',
+  'IDR',          // Indonesian Rupiah
+  'AUD',          // Australian dollar
+  'VND',          // Vietnamese dong
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames'];
