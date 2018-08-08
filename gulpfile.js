@@ -23,7 +23,7 @@ const locales = [
   'de',           // German
   'el',           // Greek
   'en',           // English (United States)
-  'en-US',
+  'en-CA',        // English Caanda
   'en-GB',        // English (Great Britain)
   'en-AU',
   'es',           // Spanish
@@ -66,7 +66,7 @@ const locales = [
   'tr',           // Turkish
   'uk',           // Ukrainian
   'vi',           // Vietnamese
-  'vi-VN',           // Vietnamese
+  'vi-VN',        // Vietnamese
   'zh',           // Chinese
   'zh-Hans',      // Chinese (Simplified)
   'zh-Hant',      // Chinese (Traditional)
