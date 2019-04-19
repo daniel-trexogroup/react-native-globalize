@@ -63,6 +63,7 @@ const locales = [
   'ta',           // Tamil
   'te',           // Telugu
   'th',           // Thai
+  'th_TH',        // Thai
   'tr',           // Turkish
   'uk',           // Ukrainian
   'vi',           // Vietnamese
@@ -79,7 +80,8 @@ const currencies = [
   'USD',          // US Dollar
   'IDR',          // Indonesian Rupiah
   'AUD',          // Australian dollar
-  'VND',          // Vietnamese dong
+  'VND',          // Vietnamese dong,
+  'THB',          // Thai Baht
 ];
 
 const files = ['ca-gregorian', 'currencies', 'dateFields', 'numbers', 'timeZoneNames'];
